@@ -1,0 +1,14 @@
+{
+    "name": "wf3/toto",
+    "description": "simple training manager",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Christophe DUHR",
+            "email": "duhrchristopher@hotmail.com"
+        }
+    ],
+    "require": {
+        "social-links/social-links": "^1.11"
+    }
+}
